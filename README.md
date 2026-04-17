@@ -1,2 +1,1 @@
-# Fake-news-project-
-A web-based project that helps detect whether a news headline or content is real or fake
+https://www.linkedin.com/in/nandini-verma-9b3760403?utm_source=share_via&utm_content=profile&utm_medium=member_android
